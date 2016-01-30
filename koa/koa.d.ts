@@ -15,7 +15,7 @@ declare module Koa {
     // See for example method-override.d.ts (https://github.com/borisyankov/DefinitelyTyped/blob/master/method-override/method-override.d.ts)
     export interface Request { }
     export interface Response { }
-	export interface Context { }
+    export interface Context { }
     export interface Application { }
 }
 
